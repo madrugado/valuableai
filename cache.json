@@ -6,6 +6,16 @@
       "siteUrl": "https://fetchrss.com/feed/1vq6uZBuQ0Cx1vq6uG94P5Mg.rss",
       "articles": [
         {
+          "id": "https://t.me/valuableai/684",
+          "author": null,
+          "description": "буквально во вторник на первой лекции курса рассказывал студентам про тест Тьюринга, а тут предложили новую его итерацию:\nкакие-то предприимчивые граждане организовали контору под названием Reviewer3 (потому что Reviewer 2 must be stopped!) и продают услуги ИИ по рецензированию; чтобы хайпануть, они предложили поиграть в угадайку, какая из рецензий на ICLR написана человеком\nтут хочется напомнить, что ChatGPT уже как год в 3 из 4 случаев проходит тест Тьюринга\nи еще, что я про такое развитие событий уже писал и даже выступал на эту тему\n@valuableai\n\n(Feed generated with FetchRSS)",
+          "link": "https://t.me/valuableai/684",
+          "publishedOn": "2026-02-12T06:17:56.000Z",
+          "wordCount": 370,
+          "title": "буквально во вторник на первой лекции курса рассказывал студентам про тест Тьюринга, а тут предложили новую его итерацию:какие-т...",
+          "imageUrl": "https://cdn4.telesco.pe/file/bWXBcPs_pbESiz26D12S1hMD82dQMLvevzkEZnHVLaAnBSchXcASOuf0UfVY413RrJ39ktMwrEvgwepGM_qQvCHORCcMhYHGkdYgPceMmBQWtVY3wqTitc-oiqeZpbQBZfA9jqlSGTWr5mmBN4CJqUDLakjyaCfjfjEh1MI1F_rrXeE8M42FWzNQ61fr48yD9YI8oj_1bUv2ODva4Bt12mY2-nPMeLjrPIYLyKQzWu9otR60qaeS1_sAfjcCay3TweAwJRfyR4YE2UXb7QadGrdjSVkRUb6Gr6nE0mTiHu4x3CXb_G4bvluzH_EhTPXgy0LGK1oeT_wndzy9gBMB5g.jpg"
+        },
+        {
           "id": "https://t.me/valuableai/683",
           "author": null,
           "description": "сегодня снова рубрика \"два мира - два Шапиро\", но немного необычная: новостей будет три\n• в России ГАИ попыталось оштрафовать робота-доставщика за якобы умышленное нарушение движения, но суд не признал за роботом субъектности\n• в Китае гражданин пытался засудить чатбота за выдачу ложных сведений - с тем же результатом, суд не признал наличия у чатбота субъектности, т.е. он не мог сознательно обманывать\n• в то же время в США, например, мать Илона Маска подала в суд на Grok за генерацию эротических картинок с ней\nиз США новостей о подаче в суд много, а вот о решениях - нет, только о мировых соглашениях; связано это с тем, что там прецедентное право, первое такое решение определит, как надо поступать с чатботами и прочим ИИ\nвот такое отличие континентального права (как в России и Китае) от островного (как в США)\n@valuableai\n\n(Feed generated with FetchRSS)",
@@ -13,7 +23,7 @@
           "publishedOn": "2026-02-11T06:31:01.000Z",
           "wordCount": 370,
           "title": "сегодня снова рубрика \"два мира - два Шапиро\", но немного необычная: новостей будет три• в России ГАИ попыталось оштрафовать роб...",
-          "imageUrl": "https://cdn4.telesco.pe/file/qd-47ydYqprQSUyHOcn-bc3_QfZsfkg59d8RZuBSeu7-juPb0ZhLuW4_AiQtVIYRyThDwDBTh9318ZjRCC5Y51Y9aLarJu5WC2seCbzEgaTNk4sgNISFKfE3OaAbEk0KGnO9CjkEN2fddMxr6iessfiBvkWaO5i44SF--Ri8WK-sjoPq6YszrkJvaPscizW5D5-aK9y-stSA47fFzrWeCfqYllpYCRX95iehk_zIpXvn0OgaPUoVYdil4qg-fN3D8XdqiR-UX3OYM51SIYYFh5BB623qztgx1_nQPRfki9lLj2EFUCuvm98RUaidY37TnL-rVJK8FBJh_L1evt-UxA"
+          "imageUrl": "https://cdn4.telesco.pe/file/HhjgXJNCOvwAgIVdF_MQslWIFGeLqVVYHZ-eD8b5DKjixRhk0nOfwa9_Gw1FG9NeBKGnmTxpmBr_ps1wiLgZeEYDTu4sPCtdTOGCUL_siWK7LIW0eIMOpn8rUQDZLcSMQHeCWB4-t5-I8qfbsr9c3Y2aJtbNbTNF_hEHGa-kaIbQ38W-1D7x8pZwHQ0IbUsAUxl_y8VPGDP-MrkOonouKlhCy0oOfTDsQnla50XbdVNPkA9sKkY7h9fcyfFPXvwv0jQ8_SEqBNqJ7XvmyKT1MCK8rVHtG8s48WohlUpxcKeRRuUAOSZpHe1pvD-VVUZg_c9aL_ijBsPTsiCDRu9ZWg"
         },
         {
           "id": "https://t.me/valuableai/682",
@@ -23,7 +33,7 @@
           "publishedOn": "2026-02-10T06:31:06.000Z",
           "wordCount": 370,
           "title": "небольшой обзор новостей про написание кода, со светлой стороны:• Claude Code уже сейчас ответственен за 4% всех новых коммитов ...",
-          "imageUrl": "https://cdn4.telesco.pe/file/Ka8c-33jGIchVUG1JzwSSN_B7FpLkipmNKHBGiQnFk3i_9CXumWSh5YdVHmlWgUlncgcj8d1j5ZK1TsGJT6WrMhJhsQdXOBVpGtalimPe16lB-R_ADSvtaJ1sdFc5TVuy1F3Lpt4_l3jrnamx34zpVaAmHGZqm5je8P-vephHA84S0QpZppcZGKp5ZM_0uMES06dyXopezH5vUVL5DonMji7rcO9fLGD1nmoD8TI_djo4EOIOqM-QKQHQosueGHsJuFGj2aR70YLWpcSpZN7v8rd5DU8ReseLTv28RUdOS_OukuFZrqg1nB85bOPOaIEfalLJSrl8GMRkZbMgehxbw.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/hUOs9l42P08yiBMUU2MkjFbUO0TIrcstDZycqF8pF6ZkKp04OredrxTzYkt3emu1WfAuXddeugGS1XIFmGkOinT-jmSYiyLUphUUQqL4iPs--raYQyCifThDGBNxyp0yWwwFSn9BZ-I2hRA1XJHgrpR8TA3Z7yyKkLSNeJBNIYWPTqLHHyIZIULAsYeA0wBSbXsD_FJ76FRQDzBC-NwLMaWy7V2DHHJIQR-3d_XhBiHEZUHcyFY4s4CIPFuuSh1EpT8m64O9BTz0QwGxqojGFkebsAfJnIjSiZh9JacMSEsS9GGWOR6pSWMGaFu-rF0SiZ0YKqkE1Zsok6cCjzUp5A.jpg"
         },
         {
           "id": "https://t.me/valuableai/680",
@@ -33,7 +43,7 @@
           "publishedOn": "2026-02-09T06:09:03.000Z",
           "wordCount": 370,
           "title": "на прошлой неделе завирусился Genie 3 от Google; это генератор \"играбельных\" демок (первое видео), на самом деле играбельность о...",
-          "imageUrl": "https://cdn4.telesco.pe/file/CJY9_GOIRnamKUi2P8AAGx2SfUYcfxz3n0Dz2JQ1h9J4hyR3dPDBaj65ARjyZXndT20gsr_HDZDjd95775dhiVb8iUmtWClpDftEMTRtoK5O7GuaSEQafjQcjfO8ujrU33lpP05y2JN5azLroRRxdyIoQHv1Pr9pSKhcEx5PNud45IJVT4isfyKCNyeinHY4b1chVKwer1eTONHrWq5lasILExgxtcyiUkcC4t-XWO5So_LxFcApx8jVsa4jnR3VtSwVx_4YMdTCaYdjchqBhl-jxAEHcQpwbRLYERikorclib9fSmkd6hRTouMUlxTqh5NcNTezvmPd0H2Cp3rBmw"
+          "imageUrl": "https://cdn4.telesco.pe/file/VGagyWZ7nSJPoN5duc9u0frAVutQBhNS1w9Wckwuu8wjjMSMr8SD2x_7yhvoNOWmQemtTbgGqjDKjtSn4h2_p0Rd71v4OT5TjCm9qKMgzMVK9AUZBl4QFj3zCdzcEmjc0jBHeL-Kq7_YbMf9LZv5Q4o4wbkiSlDWog4DIru8i9VWOcqNx9rXhy6S2efx5lh3_bV-zdjxamvNn3wXodpmGuX7P7jIjshdVhsZjCVKtJdkebPPKMUsm1r5zOTmsWaygeXhdJQaH5KTnFxhSpUbNY4q1KDeA6ctjXfaPZwqOIbe4OF4sMEb8UjD6Z2bAfP9ImTO6e-VXDCsGwxcVflIMA"
         },
         {
           "id": "https://t.me/valuableai/679",
@@ -43,17 +53,7 @@
           "publishedOn": "2026-02-08T16:46:10.000Z",
           "wordCount": 370,
           "title": "всем привет, новый выпуск Капитанского мостика, вели, как всегда, я и Дмитрий Колодезев; в этот раз мы записывались на полях Let...",
-          "imageUrl": "https://cdn4.telesco.pe/file/mEkZT6WUNCB-8W0wYgwtqGcf1ImIXIJILbgZBs227dnaq8SDggRr40LgIRx86uPjUxsB5NNkSCi0M4Gc9RFZKRph8RvX92njiE0Qkr3tp_7eHeasuRIhdSEFvz8-NmBzwhc80P0HXpXhkcTsu_CL---Ir3ffKITRsRc7MX45UFr7e9UIMgMObeO0YIP9QuVdK3MXgILLe9EC0-M3d6MkeYNb-oduoeDuCmxdCIGeyRGRy9mC8NPKqpY4nb_IPm6ZJEqkhNqi5JG-KPehrnSbZkfxHoMPxna06IHSvsoxfp2F6NFAB62HFNR9AD1z-OCt0nABW2diP0dFR73duXb_pA.jpg"
-        },
-        {
-          "id": "https://t.me/valuableai/678",
-          "author": null,
-          "description": "ну, как говорится, с добрым утром\nесли появилось желание сдать свою тушку в аренду, то вам сюда\n@valuableai\n\n(Feed generated with FetchRSS)",
-          "link": "https://t.me/valuableai/678",
-          "publishedOn": "2026-02-07T07:27:01.000Z",
-          "wordCount": 370,
-          "title": "ну, как говорится, с добрым утромесли появилось желание сдать свою тушку в аренду, то вам сюда@valuableai",
-          "imageUrl": "https://cdn4.telesco.pe/file/usWYoIJbb5JVXFXXI0lxsI4bS6zGid2Oe7AfAgsfuk4VbVPV6W6MKknCFsQn-oeGwGJablxZLckJQ4HLuLBCpIFMCioU0vUwJH2TyrjB2NSWoPEtXYS_J_ydCSpguQMhZIbml-PXQqx6t_ouLKLQ1hm9UXTrBwKhppYa0GRO6g4pxELIMu3M7kLRcEWVXd_nwxznblHys-wrcX5xgeu-p0lkrEY0abyENjirts-DDdvDYx3viLNLyS_bbFqTSnS3YniQHsCcJb2zHwk5T_D9JslnpWhGUsv2OxkpxC9mVRKvQ9wCyIRbIdn-BWg3_Mr-C5oNYWyDQE_aplkfju5XBg.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/DaqIigkWGcvTghub76u9UtVUTnyp5ijXAtdP_kt-hUvlfU35GIguWXIna3qszeeNt0wy3Nn6XddowHZSgsoAYX-NcuueGwindxK6FhnUO3hwNoMzkGjmnuUrMaeLMP3531FevfUZC65GMsQ4t56miogQE-EDBv8n4YFPV0j1wWfnLFVR9QbyDodbZHDXLC4wDsDduSHW_TB2biMaSa-LkgnEaDkZ8CblFtzeRa0IT_gPSTYe6ocKlvDtT8JJhFv1RMHcwHhLb4018K1m-QFfIM9nx_P7uXATEOmk_hTXDSSUfSI9WBsELty66O16xBjSYkBDy3fSR8AtGYgNxaQ_xQ.jpg"
         }
       ]
     }
