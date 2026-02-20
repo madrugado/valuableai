@@ -6,6 +6,26 @@
       "siteUrl": "https://fetchrss.com/feed/1vq6uZBuQ0Cx1vq6uG94P5Mg.rss",
       "articles": [
         {
+          "id": "https://t.me/valuableai/696",
+          "author": null,
+          "description": "сегодня всенародно любимая рубрика \"два мира - два Шапиро\" #2мира2Шапиро #беспилотники\n• в США в декабре 2026 года в тестовом режиме готовятся запустить беспилотные электромобили по выделенной линии длиной 800 метров (ставлю на то, что не запустят)\n• в Китае уже сошла с конвейера первая машина, которая будет без водителя возить людей по дорогам Пекина, Шанхая, Гуаньчжоу и Шэньжэня (все города сравнимы или больше Москвы) уже в этом году\nвыводы предлагаю сделать самостоятельно\nP.S. кстати, автономные такси на китайской технологии уже работают в Саудовской Аравии и ОАЭ\n@valuableai\n\n(Feed generated with FetchRSS)",
+          "link": "https://t.me/valuableai/696",
+          "publishedOn": "2026-02-19T06:54:01.000Z",
+          "wordCount": 371,
+          "title": "сегодня всенародно любимая рубрика \"два мира - два Шапиро\" #2мира2Шапиро #беспилотники• в США в декабре 2026 года в тестовом реж...",
+          "imageUrl": "https://cdn4.telesco.pe/file/t66-vTslzAbFVb99Hq4PqFbihVuTGa5XPVgEEtbmCYm2-3EFiHcRNnPcsw_B3EDIZxTCEhEISmao70Mjz_omhmE9bWl3B6oplDYEytrkAfQOznJJrtXGJBt9t7Znlyffg0szkfw8f2kN2uZJH5glbxLv9MkKeQY5ALNBDV1pFCO2VPNTwU0yGnbvqcyRZZPj2CNd5VDIKYT-2v0wViQaTay8V1ZGkwzDtQ_9pigneSCpsrUVLFgyV3CSMFFbzXvO8gPUZi9xBrtqSJboWVkg-_vWNOEBzH-OEvDgQcjwQ_eTqxpl9Ae50cL7exwiC_Z0FwfV-h1DdVV9scl-ByM_Sg.jpg"
+        },
+        {
+          "id": "https://t.me/valuableai/695",
+          "author": null,
+          "description": "привет всем любителям посчитать гномиков на ночь с утра\nя думаю, все, у кого был курс \"Алгоритмы и структуры данных\", на всю жизнь запомнили, что есть два алгоритма для нахождения кратчайших путей в графе - Дийкстры (на картинке) и Беллмана-Форда; многие помнят их сложности - O(m + n log n) и O(mn) соответственно; так вот у меня для вас есть новость, группа китайских товарищей изобрела алгоритм, который для направленных графов с неотрицательными весами ребер дает O(m (log n)^{2/3}), то есть существенно быстрее для больших и/или разреженных графов\nсуть подхода состоит в том, чтобы иерархически разбить граф на несколько подграфов, в каждом из которых можно сократить количество проверяемых вершин до 1/(log n)\nпохоже, пора вводить тег #алгоритмы, потрясения основ учащаются\n@valuableai\n\n(Feed generated with FetchRSS)",
+          "link": "https://t.me/valuableai/695",
+          "publishedOn": "2026-02-18T06:32:48.000Z",
+          "wordCount": 371,
+          "title": "привет всем любителям посчитать гномиков на ночь с утрая думаю, все, у кого был курс \"Алгоритмы и структуры данных\", на всю жизн...",
+          "imageUrl": "https://cdn4.telesco.pe/file/HaIgwo1egU6uG1zb-h0m6TFJeolIHhVrjKiynkNu_BclTMHB1eP2ixAmiGLvOaJFZsP2QbWnaaB-YFtpfHSL4L9DeRYJa72iw8Yg9nPhNWkHygzBw0x-wrQuenpdwIxqeyXZaJ7Im7WBA7hLwYYf-BD_Ttudn6qav_owRoBxAlT6-RwQU9JLS8PLM5iLhdfbsxvz6-fPnqbrPxrm_stdF6v1s8TFGaAOvUnnJxrYefHx7dxLdhkeJPIcz0DX-3iSvy-ea7UZL6pVcNBei3ZMMTuwqET_qBsLqmr1QCK4_-66jOcxIfKw39fcfH_n6CAvfyMuUTnlHHPksliLjwwb6w"
+        },
+        {
           "id": "https://t.me/valuableai/693",
           "author": null,
           "description": "в эволюционной биологии вывели правило 4 F: базовые инстинкты, необходимые для выживания - это борьба, бегство, питание и размножение; как несложно заметить, массовая культура эти инстинкты массово же эксплуатирует; теперь это добралось до роботов\n• в Шэньчжэне основана первая в мире лига боев человекоподобных роботов (1 картинка), призом будет пояс из чистого золота стоимостью 111 миллионов рублей\n• там же представили первого \"биомиметического\" робота, который в том числе поддерживает комфортную для человека температуру своего тела (2 картинка)\nстоит отметить, что некоторые люди испытали эффект зловещей долины от этого представления из-за неестественных движений, а тут как раз компания Xiaomi представила модель, которая должна обеспечивать естественные движения для роботов\nв связи с последним настоятельно рекомендую главу V \"Из воспоминаний Йона Тихого\" (\"Стиральная трагедия\"), впрочем этот цикл можно читать целиком\n@valuableai\nв эволюционной биологии вывели правило 4 F: базовые инстинкты, необходимые для выживания - это борьба, бегство, питание и размножение; как несложно заметить, массовая культура эти инстинкты массово же эксплуатирует; теперь это добралось до роботов\n• в Шэньчжэне основана первая в мире лига боев человекоподобных роботов (1 картинка), призом будет пояс из чистого золота стоимостью 111 миллионов рублей\n• там же представили первого \"биомиметического\" робота, который в том числе поддерживает комфортную для человека температуру своего тела (2 картинка)\nстоит отметить, что некоторые люди испытали эффект зловещей долины от этого представления из-за неестественных движений, а тут как раз компания Xiaomi представила модель, которая должна обеспечивать естественные движения для роботов\nв связи с последним настоятельно рекомендую главу V \"Из воспоминаний Йона Тихого\" (\"Стиральная трагедия\"), впрочем этот цикл можно читать целиком\n@valuableai\n\n(Feed generated with FetchRSS)",
@@ -13,7 +33,7 @@
           "publishedOn": "2026-02-17T06:32:01.000Z",
           "wordCount": 371,
           "title": "в эволюционной биологии вывели правило 4 F: базовые инстинкты, необходимые для выживания - это борьба, бегство, питание и размно...",
-          "imageUrl": "https://cdn4.telesco.pe/file/c5V6c-ro2m06FD3fv-CpEIOMbVBEmzSs6DFBZDNhxS6iY6vGiCrWTHv86yaNURsZprkqe4c98d_aQXyoz20h8p1E5fdUp9n9xVSKy2IZw6qmu8EV1scEZjdwSZxcR6N3N3MQUUtAxqwp0lFpfMflMYi4Eh5KAr_aFnKSNkClexVPl293adXMr4x4tIoQSbVYpq_IIeKuxxxm5PJUgDNVEMndURpVYW3p5a3x65izOdE7EVnwi-4overuL0CPluOYG4fPiEeJF1Htz1tLUBIQjcRoxH7WAj7BFHBRpI5FSx5ewl1tWpVImizq_CkrIAoGyRRBxA8B12abP3_R4JYn8w.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/sZivLYQRtsB6B2MuW7fRx4LAbu2NR_jKRzWFTNWj_C3BAwxjTiNFq8eM-aH2HSxeeyC1pF7CO__UITTdIu1_m1vO62yQ4ISQeWeZNaLnUOL2lIa2GYBDWUKPHa8WEVhAO7rqFaZtHOLBNBv6XCqWgLAq4N0TrLqGELh2K8uJz5QvsEOJRNIJYl8y11vnCfEIDy9-ucpM0svFpFHMfr2Y6EogUl_qtYjOr94fwONSzVKpdZKhXAM6fgP0wwy4mBpuE1oEZdlN6aeuVkC4ErRmqdUx0kQsoT3T2bGdW0GILDDxBiQ6lO0rKyPzGDc_92vKJZLsF1QuWYINzFQRDw-WQA.jpg"
         },
         {
           "id": "https://t.me/valuableai/692",
@@ -23,7 +43,7 @@
           "publishedOn": "2026-02-16T06:46:01.000Z",
           "wordCount": 371,
           "title": "что коллеги из OpenAI всегда умели делать хорошо - это хайповать; группа математиков основала инициативу First Proof для проверк...",
-          "imageUrl": "https://cdn4.telesco.pe/file/P-y8LFKmsPC7OY0j-U0kc_UKBIcJbHjeooY7wodsEPXJhueW_hIhAPJ78VJtEIPa8IBcwbWtMa2__gR4ML1_Zf8_ruyUlIuc7sO2kC1rEgilG04BUHmg0jbCM9aOf0mlPMduUYJfRqPV9BO1moi43fYot0br5nO-wmq13Oa2Y0EXtog9piTa1foKpgbdvmID7LpOk3LEDJt_LY_VDyRlxvWIc_yuExcuK5kHnQoIovadyyM57PP__bkIM9W_RCxktTEeI6bU8GCyuaVrvV2c8k4A6tml9MawIR3T5SFZg_s569uAjYwbe15zQXiTtIMigQjs5L7jjFQSyTPzVo3DQA.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/DY7PxoadfHi_qOUuN6CjxcITsBzbJ8BnqCmt8Rw3tEu1sOUNunQFBJBGECrg9OZSFIBZkpOTHnbiDBQF9CrSRXJo4Kjn31Go2H7I-UHxbbUEZefMAONSQdz3lcetIABk_U_eA6bG5Ds5ZPjGlMpUdXyCwzf1lEPVUZCCJ60bcPEFSxMdgEh_3eEfkHqW5wfd7c0eniYkRhBdavdByRmD43za1vcNsjkH8SbNGDnSSi6oSIBut4d4vkNaE5ZnpFqVYbpzQjiSr2wfHGN0VEqGhziXSsk8g3hEbQtouyRDyZIZUv7-bscZCtRTPpneLQjM3kHTEvcP0kk9Dft9f_fuvw.jpg"
         },
         {
           "id": "https://t.me/valuableai/691",
@@ -33,27 +53,7 @@
           "publishedOn": "2026-02-15T07:04:15.000Z",
           "wordCount": 371,
           "title": "всем привет, новый выпуск Капитанского мостика, за штурвалом как всегда я и Дмитрий КолодезевИИ-саммари:В этом подкасте Валентин...",
-          "imageUrl": "https://cdn4.telesco.pe/file/BhS-uPL-QxzA1uvVCvlwTiBaHjZFmE2u_vAA5aSoT333rEznpK-hS-d3oMRsq1CGhVD5Z6Y3RtYi9TSxu1Af5nY2RaNkdZRsQSWve1_PDEFFKDjPqMwh1u-UXxqZcyOL8teKbx59sLbdLsSudlgf4FVaZtGjOKwKqXyGN1fsHFYm6uq_Hk21wmrc6jERGPDvM3qmmDJ65VPYZGBKAc6i9ZBfbZ2Iz-1xgAgb7IsvVi9LMcjly7TVWt35WA3GQMenxDKelDq9eAn8XXL3y1QJmmFXSu3e-91tidnrTen-F_j6kJDkZ6DkEtKHAvUCUeZSUPVVMXqR0v_VRgLJCnompQ.jpg"
-        },
-        {
-          "id": "https://t.me/valuableai/690",
-          "author": null,
-          "description": "немного философии\nавтора не знаю, нашел в интернетах\n@valuableai\n\n(Feed generated with FetchRSS)",
-          "link": "https://t.me/valuableai/690",
-          "publishedOn": "2026-02-14T07:46:01.000Z",
-          "wordCount": 371,
-          "title": "немного философииавтора не знаю, нашел в интернетах@valuableai",
-          "imageUrl": "https://cdn4.telesco.pe/file/DGKYFJmySx4NyKySisL8bmGBc10pouNS0__Hm5vn5nn4KM6MzSarXiGSrY_KgaZjXiOysoSlYW-FJWYit0MWNtb8LYrktj-kogVxqBshDNfXxlCy3UQNX1vp7tNEuwWxls0WyUYdT5qso9wC7RFfEaqfrfs-pfAz1Qq2jkrkbfKvlnRolBkNGp01S9HFNB0ojYxwoMM89X2qn09auIcDWPH8pyMAFD0KA7yFafY7aBG0CigtIC_pzVm98q8UeHxxnCUwNC9U7aR5JUbFXoPQb1xQtwrF0xV4yTO1fi-m7-M-gGcdxF7ZfUJb61sQ9wBq75Zs5bZFb6o6Vos5CJEpJQ.jpg"
-        },
-        {
-          "id": "https://t.me/valuableai/685",
-          "author": null,
-          "description": "коллеги из MIT выпустили 200-страничный отчет под названием \"Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task\"\nчто они сделали - посадили людей в специальной шапочке для ЭЭГ (1 картинка) и попросили их написать эссе на одну из заданных тем (2 картинка); люди были поделены на три группы: LLM, поисковик или \"голый мозг\"; после этого людей просили процитировать их эссе  \nпри использовании LLM только 1 из 6 смог что-то процитировать; но точно процитировать не смог никто; при пользовании поисковиком цитату смогли выдать 8 из 9 человек, аналогично тем, кто вообще ничем не пользовался; но точные цитаты для людей с поисковиком были более сложной задаче - 5 из 6, а те, кто писал из головы, цитировали всегда точно; самое интересное на мой взгляд…",
-          "link": "https://t.me/valuableai/685",
-          "publishedOn": "2026-02-13T06:24:01.000Z",
-          "wordCount": 371,
-          "title": "коллеги из MIT выпустили 200-страничный отчет под названием \"Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an...",
-          "imageUrl": "https://cdn4.telesco.pe/file/DxpSaLpwMNCZvoN2lngL7Op-7osTVvgzSFf_cgtzyjPM-KOJMgLvP3KVLZecvb2hnCX5c9qmQzdowDXAhG0fI3uoRyMRcbsho3Oo8-BknsyUmRI4GokX-N4BZk_GSbrKqu4YaJm50FRRg85JjB2Oc6nQbiI6w1HCzmDUmuzxQv5M7Haw4UeX_lUrFrh_HktFZr4ghZLuN_K8cA1ZNpnWcNjq7B3rZkHa1BP1FGH8HAIZg5PYeUf7dxdU9mc3NIx406hsljit9GHOpuSV5QzPFURocMxlLpt3cfCQY3Vp-BSpoi3nXOQvyn-TW1hwma3l_9ISxTwlC-ETBHjsNTU-AQ.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/TtJymg7eAR8Q8KEzVFxTx2_oiUxLPG8o9I_CSakVyI_F1YSxihc73Gb0CnOpab0s-3IO2Lu5ma_FEuMRrJwonCblBQmt5C0ZLV8RJNH_N3zt4vDIy3Bh1FbsorurOII1N3gMf1mtVyTJQLtm7jIS2ExEEoG4arELgiDZHWcsTMJmRWB3T5U3YJ3yG6n4ViVmpR1hz5fgPbaKxjdlYm1ghZ9niRBpb3QtsctYNfeokQyclctQzY4UyirD_G-32cfHEFhL6oyusSKvqKWMC3NJu-VluCiCPXjpQcK7NtZYan-2PT6pzdf4ASoAH0485MBJ-VnHspqrt7bzvrM8wXbsRQ.jpg"
         }
       ]
     }

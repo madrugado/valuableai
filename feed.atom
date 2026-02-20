@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://madrugado.github.io/valuableai/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T01:14:07.212Z</updated>
+    <updated>2026-02-20T01:09:43.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://madrugado.github.io/valuableai/index.html"/>
     <link rel="self" href="https://madrugado.github.io/valuableai/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[сегодня всенародно любимая рубрика "два мира - два Шапиро" #2мира2Шапиро #беспилотники• в США в декабре 2026 года в тестовом реж...]]></title>
+        <id>https://t.me/valuableai/696</id>
+        <link href="https://t.me/valuableai/696"/>
+        <updated>2026-02-19T06:54:01.000Z</updated>
+        <summary type="html"><![CDATA[сегодня всенародно любимая рубрика "два мира - два Шапиро" #2мира2Шапиро #беспилотники
+• в США в декабре 2026 года в тестовом режиме готовятся запустить беспилотные электромобили по выделенной линии длиной 800 метров (ставлю на то, что не запустят)
+• в Китае уже сошла с конвейера первая машина, которая будет без водителя возить людей по дорогам Пекина, Шанхая, Гуаньчжоу и Шэньжэня (все города сравнимы или больше Москвы) уже в этом году
+выводы предлагаю сделать самостоятельно
+P.S. кстати, автономные такси на китайской технологии уже работают в Саудовской Аравии и ОАЭ
+@valuableai
+
+(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>Valuable AI / Валентин Малых – Telegram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[привет всем любителям посчитать гномиков на ночь с утрая думаю, все, у кого был курс "Алгоритмы и структуры данных", на всю жизн...]]></title>
+        <id>https://t.me/valuableai/695</id>
+        <link href="https://t.me/valuableai/695"/>
+        <updated>2026-02-18T06:32:48.000Z</updated>
+        <summary type="html"><![CDATA[привет всем любителям посчитать гномиков на ночь с утра
+я думаю, все, у кого был курс "Алгоритмы и структуры данных", на всю жизнь запомнили, что есть два алгоритма для нахождения кратчайших путей в графе - Дийкстры (на картинке) и Беллмана-Форда; многие помнят их сложности - O(m + n log n) и O(mn) соответственно; так вот у меня для вас есть новость, группа китайских товарищей изобрела алгоритм, который для направленных графов с неотрицательными весами ребер дает O(m (log n)^{2/3}), то есть существенно быстрее для больших и/или разреженных графов
+суть подхода состоит в том, чтобы иерархически разбить граф на несколько подграфов, в каждом из которых можно сократить количество проверяемых вершин до 1/(log n)
+похоже, пора вводить тег #алгоритмы, потрясения основ учащаются
+@valuableai
+
+(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>Valuable AI / Валентин Малых – Telegram</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[в эволюционной биологии вывели правило 4 F: базовые инстинкты, необходимые для выживания - это борьба, бегство, питание и размно...]]></title>
         <id>https://t.me/valuableai/693</id>
@@ -60,32 +93,6 @@ ODS YouTube
 @valuableai
 
 (Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>Valuable AI / Валентин Малых – Telegram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[немного философииавтора не знаю, нашел в интернетах@valuableai]]></title>
-        <id>https://t.me/valuableai/690</id>
-        <link href="https://t.me/valuableai/690"/>
-        <updated>2026-02-14T07:46:01.000Z</updated>
-        <summary type="html"><![CDATA[немного философии
-автора не знаю, нашел в интернетах
-@valuableai
-
-(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>Valuable AI / Валентин Малых – Telegram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[коллеги из MIT выпустили 200-страничный отчет под названием "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an...]]></title>
-        <id>https://t.me/valuableai/685</id>
-        <link href="https://t.me/valuableai/685"/>
-        <updated>2026-02-13T06:24:01.000Z</updated>
-        <summary type="html"><![CDATA[коллеги из MIT выпустили 200-страничный отчет под названием "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"
-что они сделали - посадили людей в специальной шапочке для ЭЭГ (1 картинка) и попросили их написать эссе на одну из заданных тем (2 картинка); люди были поделены на три группы: LLM, поисковик или "голый мозг"; после этого людей просили процитировать их эссе  
-при использовании LLM только 1 из 6 смог что-то процитировать; но точно процитировать не смог никто; при пользовании поисковиком цитату смогли выдать 8 из 9 человек, аналогично тем, кто вообще ничем не пользовался; но точные цитаты для людей с поисковиком были более сложной задаче - 5 из 6, а те, кто писал из головы, цитировали всегда точно; самое интересное на мой взгляд…]]></summary>
         <author>
             <name>Valuable AI / Валентин Малых – Telegram</name>
         </author>
