@@ -6,6 +6,26 @@
       "siteUrl": "https://fetchrss.com/feed/1vq6uZBuQ0Cx1vq6uG94P5Mg.rss",
       "articles": [
         {
+          "id": "https://t.me/valuableai/708",
+          "author": null,
+          "description": "не знаю, кто автор, но меня прямо тронуло #суббота \n@valuableai\n\n(Feed generated with FetchRSS)",
+          "link": "https://t.me/valuableai/708",
+          "publishedOn": "2026-02-28T07:46:01.000Z",
+          "wordCount": 371,
+          "title": "не знаю, кто автор, но меня прямо тронуло #суббота @valuableai",
+          "imageUrl": "https://cdn4.telesco.pe/file/rCTJZPg-MRtfptWw1WVWIMb8QI_k4LFtI8MI6uyrBtIplrAV66i97fWRbxgqMc-D25kRDOQ4J-v0L9WjlM2yKob46AG2dgBluGTPV8v0qA4bib4OjZkxCgMQfNvXNUmni4ERCE8eOGsLbuXiEDbDLwIJQabJKLgGHYz32w6ww_Fuq3tk01uc4sN71iaf2-BhcU1WUhAsFx0Hdp_TpB0FvxKHhi0YZlHMZEy5Ar6Boswsqj0J4BfW2e43y40PDV7BVGtbz3GUPuTESvc5rSaqXwvhebBaiQS3SQIixs22bKtZD8N6joScnAA-dJdFnnsKj6yLPBqfpFADt-8bYu9IpQ.jpg"
+        },
+        {
+          "id": "https://t.me/valuableai/706",
+          "author": null,
+          "description": "LLM стали настолько хороши, что их применяют теперь и для обработки картинок и даже видео, это называется Vision Language Models (VLM); но все-таки есть в этом что-то странное - для обработки картинок зачем-то нужен текст; эта идея не мне первому пришла в голову, первыми были в OpenAI - они представили Video PreTraining; основан VPT на идее, которая была предложена еще в лохматом 2018-м году, IDM - это обучение повторению поведения на основе изображений\nк чему я это все? к тому, что вышла модель FDM-1 (картинка); это диффузионная модель, которая принимает кадры из видео на вход, а на выходе воспроизводит последовательность действий; для обучения ее авторы сначала обучают IDM, а потом с ее помощью генерируют синтетические данные\nв итоге FDM-1 способна на 1 часе видео дообучиться до управления автомобилем (видео); так что может быть self-driving в будущем сможет себе позволить любой стартап из глухой африканской провинции #беспилотники\n@valuableai\nLLM стали настолько хороши, что их применяют теперь и для обработки картинок и даже видео, это называется Vision Language Models (VLM); но все-таки есть в этом что-то странное - для обработки картинок зачем-то нужен текст; эта идея не мне первому пришла в голову, первыми были в OpenAI - они представили Video PreTraining; основан VPT на идее, которая была предложена еще в лохматом 2018-м году, IDM - это обучение повторению поведения на основе изображений\nк чему я это все? к тому, что вышла модель FDM-1 (картинка); это диффузионная модель, которая принимает кадры из видео на вход, а на выходе воспроизводит последовательность действий; для обучения ее авторы сначала обучают IDM, а потом с ее помощью генерируют синтетические данные\nв итоге FDM-1 способна на 1 часе видео дообучиться до управления автомобилем (видео); так что может быть self-driving в будущем сможет себе позволить любой стартап из глухой африканской провинции #беспилотники\n\n(Feed generated with FetchRSS)",
+          "link": "https://t.me/valuableai/706",
+          "publishedOn": "2026-02-27T06:40:15.000Z",
+          "wordCount": 371,
+          "title": "LLM стали настолько хороши, что их применяют теперь и для обработки картинок и даже видео, это называется Vision Language Models...",
+          "imageUrl": "https://cdn4.telesco.pe/file/rIGSiK1eaHTNuUD6yoaL1nUMIYgABuCbhbWsAQ-1mthCli9LEbJx5pwiCDWP2wLTnbUUu6sl7xcqJmjtX7Xtpuzg9qD6KGGHOKxxf0SLkuvYkf_Q37z0VouOoChmNwUlLJOjxMc8INtzFV5RKG7j0EMCGehbPqMX6v5h0BBLwOea-JJqR0N1bjiPFN3zw_KRe1zyAM66aL6L0IKMdlPrdJB2Ur0XH5BmgWkfvNIkiPQx72eZ4IDQN1mMwe45Z-rE4-uVkfI5KgbxafRyFxq1hqaDj2lD-H2EkRD21ip9piCTv4eUd2aILwDstddLICVkmb-HWIcVXVzMQRCDlMC5lA.jpg"
+        },
+        {
           "id": "https://t.me/valuableai/705",
           "author": null,
           "description": "у наших ближайших соседей (через Беренгов пролив), в США, происходит интересное:\n• с одной стороны Anthropic пытается отбрыкаться от требований Пентагона предоставить доступ к технологиям (страшно представить, какой скандал был бы, если бы наше Минобороны пришло с таким требованием, например, к Яндексу)\n• с другой стороны xAI спокойно заключили соглашение\nнапомню, в прошлом году xAI и Google уже заключали контракт с Министерством войны; Anthropic и OpenAI вроде сначала были тоже готовы, но, как теперь видим, первые точно нет, а про вторых так ничего и не известно; министр войны США обещал санкции для Anthropic, если они не заключат контракт до пятницы; запасаемся попкорном #военное\n@valuableai\n\n(Feed generated with FetchRSS)",
@@ -13,7 +33,7 @@
           "publishedOn": "2026-02-26T06:28:01.000Z",
           "wordCount": 371,
           "title": "у наших ближайших соседей (через Беренгов пролив), в США, происходит интересное:• с одной стороны Anthropic пытается отбрыкаться...",
-          "imageUrl": "https://cdn4.telesco.pe/file/ktboNDxvBNY5ohL_VH4-BNXXKH7HuhLsXhBapzg31rKPhjcbuTOgWAnqOkEtILtkUOHPnThqfpCW9WykPU_3fdxwuBK7QRWYIY2u-WMLVgNm-GfIf5Lxumj0I0fThtQpqn06TKVn-5YZzWwbt5aRY9pLZehvQFcsZhc9Kc66tCE6sgMsf-4cKbFB3QEaZq8NwKu9I6aNfNrAzvtDqr06JYRQp9Y8CyL689dQGitHOc9KRXvQt5P1J7VNs17AeAQ11H-PzN8sTJbl-c2vtE8mSbZRY_56hsGtFtHC3FPNsA5AAcYu0ufKL3ZltUsu4Yyrg8GU4_Yhlj_QVdDJGWbHdw.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/IX2JbOAf_GGDnmqm5n3jMeQWqTwfDPAU2UpzoHwDnUY-9JjaMev8zXfG9aHf04IhkWIjGLkyk-QjGMNsDfB67udpHI9vxNSQlQyM1fItfPLJkjUB6QBDToNbzebG6u2v3uCW1ayoDIpE84cpTq4OvHpTg5rTj5MNrLrNUilrMFDmwflPcm2UCR9hXYsn7lEryHVFGjXxv8mL94BE-BqtzYl-WY9g9WmAUWgWmrLw0Om4JZ2YLM_0cYzsotZGm3u3fG0-xnOUdpkPTYDPCMbojIoXdSjkKVtbWTFdOSYDWK7-sHOTDdvrBN3RSrULgKF1WYkVnPSsN8-zvWKHFzXWUA.jpg"
         },
         {
           "id": "https://t.me/valuableai/704",
@@ -23,7 +43,7 @@
           "publishedOn": "2026-02-25T17:23:12.000Z",
           "wordCount": 371,
           "title": "#КолонкаМентораВсем привет!",
-          "imageUrl": "https://cdn4.telesco.pe/file/bevDnEYLyWxObmpEC5BHLdeBf73DB3Lo5tDRs9ij1ropF7UN4VsjyOYZvbfjyo4uV_YA19dxEbyM7QNQVjVUwgnMqcwhCCU0r1kSv12J_7fEcrrcihE5CGtN8DkojRmLtbXEBmppTOYoOMCqu8Eh5GhrGzDN2rlAhp82qwsFEzSuocMQxBnvQEnN7-cp0uAp6lk_QJi7NfGesyw3DSfkOiHt8jiIbvvfOik3d9aC4ttT9OLcLmQi-3NFVzY2cAyfTGNTMlfE0tgaNkF7EpnB_fxE-P3kdfIc86_oLJcSOBAshJO7EMNneRgexl75NmCyvLQ4JLRjvrIEIE5fNBmQDA.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/BghyrGZugI8TWZKKoFu4XqwbTPH2J7rXwmknVtc--STqUuL14KodnFq5nfPksxJW5rGqmZZb1E3qjIqNcB4IYra2jbwPx8TnO5Fz_WmeZXnlG2O0nkrabQMsv0PlOADzyyPIfO1DqkEsP--pAVpBxmOkaA2wzAwPk2B0LXiafNL0Xqr-LW47NJSHFU-VX8avwLov2fk6PlTKsmj68IcfFCxkYwbaBftEq_Px6AV1i88mqCCE7hbTuwLf8tjOK9iywB0yPnlr8ISGXuhD9Q-JPLNSa8-nxssqheImf8oreVM3eufDH-Tzls1hF3D7BDYWWI__k_tFr0mNpDggha2_6Q.jpg"
         },
         {
           "id": "https://t.me/valuableai/703",
@@ -33,27 +53,7 @@
           "publishedOn": "2026-02-25T06:38:01.000Z",
           "wordCount": 371,
           "title": "OpenAI выпустили даже не статью, а некоторое эссе, где написали, что больше не используют для оценивания SWE-bench Verified, т.к",
-          "imageUrl": "https://cdn4.telesco.pe/file/grbc1fRwlbNK5fxFsUBz5UhbwyjQWfdj3ef0cDznUjPw3sCWmc2l6KhVihqT8yWSE-qzux0CWlrcchxliHWGx52TgYTOzu9MVp6GZinWJDAgPOxSvpr26Gnr4N3X8UV7EKtGoNpgN8GWo7gXzHvIXEuxAxCzcSHDZKhzyLKMsgdxid5WJ91uBMitQ084UGfZd-XEPX_8v92XthwrVDEi7tQKUFXBtuUvtpzVp1KNQasjeslF5BkO9e17c72VpC1LIPB_CuGWEjEffervrizhIJMUbTtIAulkKyBs1AfwlQ6oISD6z661Mu-DdLy4j5av-Lwl05aUjIdQojTc_QlQFw.jpg"
-        },
-        {
-          "id": "https://t.me/valuableai/701",
-          "author": null,
-          "description": "вы знаете, какие 3 самых высокооплачиваемых профессии в России? \n3 место: дата-сайентист\n2 место: девопс инженер\n1 место: сварщик______\nя не шучу, и это не на пустом месте: сварщик (1 картинка) - профессия ответственная, требующая серьезного навыка; причем, опытных сварщиков просто мало\nиз этого становится понятно, почему работодатели пытаются роботами заменить низкоквалифицированных сварщиков \n• компания из Мытищ смогла в 4 раза увеличить производительность, засчет использования робота сварщика (2 картинка)\n• в Италии судостроительная компания объединилась со стартапом Generative Bionics для создания гуманоидного робосварщика для использования последнего на своих верфях\nтак что не программированием единым, как говорится #роботы\n@valuableai\nвы знаете, какие 3 самых высокооплачиваемых профессии в России? \n3 место: дата-сайентист\n2 место: девопс инженер\n1 место: сварщик______\nя не шучу, и это не на пустом месте: сварщик (1 картинка) - профессия ответственная, требующая серьезного навыка; причем, опытных сварщиков просто мало\nиз этого становится понятно, почему работодатели пытаются роботами заменить низкоквалифицированных сварщиков \n• компания из Мытищ смогла в 4 раза увеличить производительность, засчет использования робота сварщика (2 картинка)\n• в Италии судостроительная компания объединилась со стартапом Generative Bionics для создания гуманоидного робосварщика для использования последнего на своих верфях\nтак что не программированием единым, как говорится #роботы\n@valuableai\n\n(Feed generated with FetchRSS)",
-          "link": "https://t.me/valuableai/701",
-          "publishedOn": "2026-02-24T06:51:01.000Z",
-          "wordCount": 371,
-          "title": "вы знаете, какие 3 самых высокооплачиваемых профессии в России?",
-          "imageUrl": "https://cdn4.telesco.pe/file/Yr6-3tj8KoL_nEDcJ40IhGjDchgavInhFd_WG3ACRRCU5G3b478HtbRNV-SRUAhJUhRsQaKdlbXOgH-hOdrDaJBPYtCHSQxbRvRsBWwJ-QM_bbKTizjB3d0m-hppcNfbqzcQylZar_W00r8l7jFpNEvt68DNY7mZeMWYnp2pQYPehR_4M_vLArX00fYT0D0_S8FI5LO_XXUCl21SZKA938ZBplH-DSHBLrjhqHFLrWIw8h7wz2ZsGpFTVPKl0raAsHubxFesgBbQ21U5NVuAdujOzoe9lsSKsjlMKyaM8EH6CVGXn0NdWMmcEAFAyDrjYzAhI0BId1JYTrxQFtOcwA.jpg"
-        },
-        {
-          "id": "https://t.me/valuableai/700",
-          "author": null,
-          "description": "всех причастных с Днем защитника Отечества! в честь праздника решил сделать обзор новостей про ИИ в российской военной сфере и закономерно уткнулся в то, что в открытом доступе такой информации практически нет\nу нас в отличие от американцев не принято рекламировать разработки даже после их внедрения в войска; полгода назад были новости про шлем с ИИ - редкий случай, когда у нас про такое написали\nиз относительно достоверно известного: беспилотник \"Ланцет\" (на картинке) есть в модификации с ИИ, которая позволяет довести его до цели в условиях подавления радиосигнала и невозможности связи с оператором\nеще есть очень мутное упоминание про то, что система управления войсками может суммаризировать и верифицировать информацию; но тут видимо только люди с доступом к секретной информации могут что-то определенное сказать (но не будут этого делать)\nв целом, можно отметить, что несмотря на отсутствие рекламы, в нашей армии тоже этими вопросами занимаются #военное\n@valuableai\n\n(Feed generated with FetchRSS)",
-          "link": "https://t.me/valuableai/700",
-          "publishedOn": "2026-02-23T07:44:01.000Z",
-          "wordCount": 371,
-          "title": "всех причастных с Днем защитника Отечества!",
-          "imageUrl": "https://cdn4.telesco.pe/file/o0eq4ziNwt50qh7R1M0-qDnhsb0ltP_lX_J78EXgVuAbdeeHDPC5VnBi8Bdqs7F3NOIF8skmD2j-HDhdEGX20NGCaBTFXxkkCn_N0YSc0cXxOVvIXsAEgnPM6lZn7ndpP8ar4VrHCChGEB-mia7tOwa0LtBNxiObedHDgnH6ivXtYeFgCsLdSg0QWDyeFHLO65wkw-DhHcOtQDEqyRJ7jqM-uXc6nb5rjeYz82j_HTWFp9Q3RYP86JhuWzVoejPMiTeYPasRJa7PlE78C8vzRjnL5hDXj26XKqvla0K7EeArEifgebzPBx_yQdnAxxofn9wsstDaNpYG_kU-8pw5Vg.jpg"
+          "imageUrl": "https://cdn4.telesco.pe/file/kdRbZmhrp0Jto36EyYVJ3RGKdZAeQUWeWc4YxBTyWuxJGs3_OOZmBp1sXjJolT_IGnvpMRyWco1PxVdkPdcYScJ07dRCamIm1DsZW4UkeCp_aODbJMemC-ujgwscaxffB78Blpp0C4otWOpfq4TxaUh-NmrZjK0Qo_PmB4uR4EZsrR9ObBs7I5IZS16flw0r0KSdE2HJdPgrMVdKla5vijZCfOEbrVR5sSIaVuMylMUTuKiak9-EodhyDUV45_HbOBlSMgkB_2AL4astpMUqAC4heAxXKopB3Rus2hOUYT1XINVo9i_BdBPqN1z8MOAE-y4_id-JLUpUnEVUUQryhQ.jpg"
         }
       ]
     }
